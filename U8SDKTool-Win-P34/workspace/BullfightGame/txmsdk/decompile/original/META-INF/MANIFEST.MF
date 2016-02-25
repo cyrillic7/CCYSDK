@@ -1,0 +1,762 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/publish/UIPopDialogBoxChangePassword.ExportJson
+SHA1-Digest: f+eBpOeoagmd1IZEmbd83l9fjBA=
+
+Name: assets/sound/otherOx/ox9.m4a
+SHA1-Digest: ya+p7IjRh4LrsuHE/76dGXzM/kg=
+
+Name: assets/publish/AnimationActionPrompt.ExportJson
+SHA1-Digest: pTOlCClNLspWNt5ei+Omrnh4Ddc=
+
+Name: assets/publish/UIGameLobby.ExportJson
+SHA1-Digest: 9kXHcAR7sJa6zTFt+dyjOjZNVJo=
+
+Name: assets/publish/AnimationLogonOx.png
+SHA1-Digest: Gia3qNslt9TT5PeILuIXM6VdB7Y=
+
+Name: assets/publish/AnimationGameEnd.png
+SHA1-Digest: uEPB5uYTzLlJp8D7U20dHgSO4ow=
+
+Name: assets/publish/UIPopDialogBoxMore.ExportJson
+SHA1-Digest: YEusyxSaBAy6GDSlSxB3maQqmj8=
+
+Name: assets/sound/OUT_CARD.m4a
+SHA1-Digest: LLNE0K2igfAt8LeZBTZeqyys67M=
+
+Name: assets/publish/AnimationLogonOx1.plist
+SHA1-Digest: xtuhlYtBxOzCnhY7p5spkh6zVbM=
+
+Name: assets/publish/UIPopDialogBoxSign.ExportJson
+SHA1-Digest: 2QXXX3G84vwBcKC3tgGwHh3hwWY=
+
+Name: assets/publish/UIGameLobby.png
+SHA1-Digest: jyw0hNzj17KQ376v/e3lLD7rxAE=
+
+Name: assets/publish/AnimationCompanyLogo.ExportJson
+SHA1-Digest: 5bmQA9nxvAxWdO6/ANqJvIW6gyw=
+
+Name: assets/publish/AnimationBeginGame.plist
+SHA1-Digest: +IKpd0hVrQJ3JOI3NKOYOWCSX0Q=
+
+Name: assets/publish/UIPopDialogBoxLogonAccount.ExportJson
+SHA1-Digest: wpbxAdfcFoyjSnxRozgOobZHZok=
+
+Name: assets/publish/UIHelp.png
+SHA1-Digest: jy8bWqEowWBDKg0TJlDTdUrtFPQ=
+
+Name: assets/publish/UIPopDialogBoxBank.ExportJson
+SHA1-Digest: NTY365IijYPZ5022Y9gi0KKYEiA=
+
+Name: assets/sound/otherOx/ox2.m4a
+SHA1-Digest: zX4Mvkv6d+lAEfK0X0ofFFtKtPQ=
+
+Name: res/drawable-hdpi/b_web_back.png
+SHA1-Digest: i+3e8p2+JvcfK3j7Tc4qtALaGhE=
+
+Name: assets/yyb_icon_back.png
+SHA1-Digest: rz2iRJOIylJ3El/3FMNYEbzutiY=
+
+Name: assets/publish/UICheckBox.png
+SHA1-Digest: vTtCe6IjtEOmXt4jh5RlZY0iAd4=
+
+Name: assets/publish/UILogon.png
+SHA1-Digest: LlLSN3rgV7Ki0NTKt+Nl4/6OVL8=
+
+Name: assets/sound/otherOx/GAME_WARN.m4a
+SHA1-Digest: F6NR599jFwBgStwzgGAqVWvzdVk=
+
+Name: assets/publish/UITask.png
+SHA1-Digest: Vs7zQLxfImC1dXy3Kog29mAJMdA=
+
+Name: assets/yyb_appdetail_bg_floatingwindow.9.png
+SHA1-Digest: iOF6vy6Ma8SqrJZVpH/hMwRSMP0=
+
+Name: assets/publish/UIClassicLobby.png
+SHA1-Digest: S1NhPnpD5S7n3vvvJoZF7N1x9j4=
+
+Name: assets/publish/num/num_hundred_all_score.png
+SHA1-Digest: Qgqk9pMNQ4/pyCfvWESSzP7DIDA=
+
+Name: assets/publish/UIUserInfo.png
+SHA1-Digest: gSIVhNTddILO7Ay3emMx6yy3K/g=
+
+Name: assets/sound/otherOx/ox1.m4a
+SHA1-Digest: hskWdjvSU8xqZlmnvnqUyiKWoN8=
+
+Name: assets/publish/UIDial.png
+SHA1-Digest: PMQyhJzRNwLqOJKGUtaiFVylbRA=
+
+Name: assets/publish/UIPopDialogBoxSetting.ExportJson
+SHA1-Digest: kfDqQZOwUQMCkZRcjIFcUa4jEQM=
+
+Name: assets/sound/END_WIN.m4a
+SHA1-Digest: l69c33gJzb2dU/uL8WoHW9snH2Q=
+
+Name: assets/publish/UIFirstRecharge.plist
+SHA1-Digest: BSQJkXOz17lhOE3UyuVmLdP0f/s=
+
+Name: assets/sound/otherOx/SEND_CARD.wav
+SHA1-Digest: evm2tCaXQOKUC93CxbEpavka/dg=
+
+Name: assets/publish/num/num_day.png
+SHA1-Digest: oX0NHVL0WwbH2jbDCP6SVeSx0zA=
+
+Name: res/layout/webview_layout.xml
+SHA1-Digest: CSzgjAYTn5iLIoKYpl+EZGaacDY=
+
+Name: assets/publish/UIPopDialogBoxForgetPassword.ExportJson
+SHA1-Digest: 5oImoC/zPpvsA7iHhkDQf4oHbBE=
+
+Name: assets/publish/UIPopDialogBoxFeedback.ExportJson
+SHA1-Digest: y/koE/3CnkMeMfl3G0ByUsiEmx4=
+
+Name: assets/res/u_input_horn.png
+SHA1-Digest: JIwMW2Qra32TQQ+LDnsPSvc53FY=
+
+Name: assets/publish/UIUserIcon.plist
+SHA1-Digest: S4KVE92qozgL+63gdyYomQ5x5i4=
+
+Name: assets/publish/UIPopDialogBoxWealthRanking.ExportJson
+SHA1-Digest: iOF++8x9e0l8oCLRcP6CmzvxEEE=
+
+Name: assets/publish/UIPopDialogBoxRecharge.ExportJson
+SHA1-Digest: JWU1JxhwZ5E1aBeRrvELLBFAsgQ=
+
+Name: res/layout/softupdate_view.xml
+SHA1-Digest: LpFjC4PIphAkAgBmu4TN+8O0+n0=
+
+Name: assets/publish/AnimationGameIng.ExportJson
+SHA1-Digest: dCqTJjxoLGYn5BEiWjGx4Du56oU=
+
+Name: assets/publish/card.png
+SHA1-Digest: d+UBmqec6qBleeMzOPcwJ7cIzD4=
+
+Name: assets/publish/UIClassicLobby.plist
+SHA1-Digest: vWJp9Qo05+t6pem0ZB+7VEKT2IM=
+
+Name: assets/publish/num/num_gold.png
+SHA1-Digest: v1N/skhojdNKdEXPnOX3NuTWrRo=
+
+Name: assets/sound/otherOx/ox10.m4a
+SHA1-Digest: +oeizphO3rhrP/+4v/jGD04GugI=
+
+Name: assets/sound/GAME_START.m4a
+SHA1-Digest: hAr4KGEs8tI//77IqcyhT7RQBGE=
+
+Name: assets/sound/otherOx/ox7.m4a
+SHA1-Digest: 3WUCeVIr4/y2AYe3ymEIl2TKyX4=
+
+Name: assets/publish/UIPalyer.ExportJson
+SHA1-Digest: uw6C3Xp7WZURmI9i5NrTUlK+E/o=
+
+Name: assets/publish/AnimationLoading.png
+SHA1-Digest: f8d/lNaRClIfkTBLKr+pVPF71eo=
+
+Name: assets/publish/UILogon.ExportJson
+SHA1-Digest: kFMz1QriKnUrJELk12GbGX8ds0A=
+
+Name: assets/publish/card.plist
+SHA1-Digest: nCrNtNC2PpUrY+T3F2FXxD3qz10=
+
+Name: assets/publish/UIPopDialogBoxDial.ExportJson
+SHA1-Digest: e/3pnHFsZ3vzskNPceQitSzAHaM=
+
+Name: assets/res/g_gold.png
+SHA1-Digest: VGo+APsFYCuq+vpQbuDjrQn3Jmc=
+
+Name: assets/com.tencent.plus.blue_disable.png
+SHA1-Digest: KwQ2SLR32W8k+uF420pUXoLLAto=
+
+Name: assets/publish/UIPopDialogBoxTask.ExportJson
+SHA1-Digest: jDkcQ+fzJ6j4VZpoKfvFIRyAbDw=
+
+Name: assets/publish/UIForgetPwd.plist
+SHA1-Digest: SHeGKxEMYCdVPXIRzuQpuygqqaM=
+
+Name: assets/res/logon.jpg
+SHA1-Digest: 63KlJ3MfWoGdOAMeiaLruKWiGD8=
+
+Name: assets/yyb_friends.png
+SHA1-Digest: jnHduk4R6gxpMxjc6Oln2liiuRw=
+
+Name: assets/sound/ADD_GOLD_EX.m4a
+SHA1-Digest: hPp6esduTrxk3w1nq+kw440roLQ=
+
+Name: assets/publish/UIVip.plist
+SHA1-Digest: 4GBvHnaOtE8RQDxMtq7My3B8Jmk=
+
+Name: assets/sound/lobby/touch.m4a
+SHA1-Digest: i0HeGfIuCGKZqJy1j0CJbuT2euU=
+
+Name: assets/publish/UIPopDialogBoxAbout.ExportJson
+SHA1-Digest: tS18YQFd/p4CyG8AomzBDz71SCk=
+
+Name: assets/publish/AnimationBeginGame.png
+SHA1-Digest: MVyJLAFpOWb/bWjgYu2ESlj5b2s=
+
+Name: assets/publish/UIKnapsack.png
+SHA1-Digest: Re3ooSch3zT5J91N3OKhh3/airo=
+
+Name: assets/publish/UIPopDialogBoxMakeText.ExportJson
+SHA1-Digest: FyI7f+vaY/uo6ZPat3gSjY/LLy8=
+
+Name: assets/data/cardOffset.plist
+SHA1-Digest: lNRdQids/1nfboZsG8JtGo1iTUI=
+
+Name: assets/publish/UIPopDialogBoxKnapsack.ExportJson
+SHA1-Digest: ouGWH/Of59K/4Il0XpCXfYe4lM8=
+
+Name: assets/publish/UIBindingPhone.png
+SHA1-Digest: qcKhx/uhQ0/uOSrt9+tIs3dBmhk=
+
+Name: assets/publish/UIPopDialogBoxHelp.ExportJson
+SHA1-Digest: kv1fUuiLq4X98ZxjHZTplHa6B0E=
+
+Name: assets/publish/UIPopDialogBoxBindingPhone.ExportJson
+SHA1-Digest: fNgowo3VsfLKtAGjuWiHRxYMTa4=
+
+Name: assets/libwbsafeedit
+SHA1-Digest: /WPw1+DlgBrRMrerHyu+xogtvIQ=
+
+Name: assets/publish/AnimationCompanyLogo.png
+SHA1-Digest: y+oKFOYhH0NywN54t1eMzRlZWgs=
+
+Name: res/drawable-ldpi/b_web_back.png
+SHA1-Digest: 9c8WSnhxzJveEovl2qP9pz7tjCM=
+
+Name: assets/publish/UIPopDialogBoxBuyCount.ExportJson
+SHA1-Digest: 00gTVf4UX/lzbsYC0UkvBB5+xKs=
+
+Name: assets/publish/UIPopDialogBoxTrend.ExportJson
+SHA1-Digest: 0v8L8m3K2vLBorQaMVcVNEswms8=
+
+Name: assets/publish/UIPopDialogBoxUpBank.ExportJson
+SHA1-Digest: ddN8ko3nN3HSLc6QnslqPBVkP5s=
+
+Name: assets/publish/AnimationOxType.plist
+SHA1-Digest: 1pl4153E5FQdvAu8zXKyz9p9ZXs=
+
+Name: assets/publish/UIFirstRecharge.png
+SHA1-Digest: cL+KaVRetC0jAd7H8I39XuTKIak=
+
+Name: assets/publish/UIAuction.plist
+SHA1-Digest: LGZudTt/li4sujWZowHl3AxNUDk=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: ybMIJHuiq+Ck92nuJu/RsOaIuKs=
+
+Name: assets/particle/sakura2.png
+SHA1-Digest: j0/JqesM5mjrhZh3Q/OR9ZC0KfE=
+
+Name: res/drawable-xxxhdpi/icon.png
+SHA1-Digest: hFDuHozxG1PwIHxV1JzYlKGCmi4=
+
+Name: assets/publish/UIRecharge.plist
+SHA1-Digest: wjtbFzGYUluWuVEaNFGcatb6kkE=
+
+Name: assets/publish/UIGameIng.png
+SHA1-Digest: cPcmXbomZgMNHKgiyYN2UKCSr8o=
+
+Name: assets/publish/UIBaseLobby.ExportJson
+SHA1-Digest: gblnGglOWm6b0mmlz72X6fIdjBY=
+
+Name: assets/com.tencent.plus.blue_down.png
+SHA1-Digest: P5pLNnim3nMuEA2ZM1/RdQsqIUY=
+
+Name: assets/data/helpText.plist
+SHA1-Digest: 4BjpJAk2ysofPk7wl8ZpMu+n8N4=
+
+Name: assets/publish/UITask.plist
+SHA1-Digest: ou2k5Zoy6vjz7pPmJwAAYjfBc8k=
+
+Name: assets/publish/AnimationGameEnd.ExportJson
+SHA1-Digest: lRQgBlwZmxz+T1JhFwNHhWDm0W8=
+
+Name: assets/publish/UIShop.plist
+SHA1-Digest: Nv1pPPCDnHejcE0HEI233t0oWD0=
+
+Name: assets/sound/otherOx/ox0.m4a
+SHA1-Digest: xwbe+UvOTSlKfVNptHtl9K1rt0s=
+
+Name: assets/data/aboutText.plist
+SHA1-Digest: 0giWjoBW0KA5DiHVYbglAcnLKbo=
+
+Name: assets/publish/UIAuction.png
+SHA1-Digest: azr8oB+bKspNAiv+Wn2QdLJoGEg=
+
+Name: assets/publish/UIButton.png
+SHA1-Digest: R/urgjTFAvLJVv507OkCTY4Tofs=
+
+Name: assets/publish/UIPopDialogBoxUserInfo.ExportJson
+SHA1-Digest: rn2zwoeBeO9eGYRVIbpnl13jYX4=
+
+Name: assets/publish/UIPopDialogBoxTipInfo.ExportJson
+SHA1-Digest: bVj0/AKq6q3UUVZSRsn/o5ghExM=
+
+Name: assets/sound/otherOx/OPEN_CARD.wav
+SHA1-Digest: MGgOvZaeAsDp4b4HLzQdstnpd8Y=
+
+Name: assets/publish/Font.png
+SHA1-Digest: mT9+mdMssAh6y55SPF5c5vKwvv4=
+
+Name: assets/particle/sakura.png
+SHA1-Digest: bIrUwu8gDJXrE3/iEpuECHaGuKc=
+
+Name: assets/publish/AnimationActionPrompt.png
+SHA1-Digest: h40Bw9x8vHV2nTrGC67tZkl4pUA=
+
+Name: assets/publish/AnimationDial.png
+SHA1-Digest: 2PB2ontp98PfJOEW//Ui8w7PGyo=
+
+Name: assets/publish/UIPopDialogBoxRegistered.ExportJson
+SHA1-Digest: 9YlliHvlj6qI63Citzhj8X28jsM=
+
+Name: assets/publish/UILogon.plist
+SHA1-Digest: PG2hew11WU4BAK2IOHZh7AHLvOY=
+
+Name: assets/res/room_one_by_one.jpg
+SHA1-Digest: zlfChFevS0nyQDTiZXqXPIDvTN8=
+
+Name: assets/publish/UIBindingPhone.plist
+SHA1-Digest: c91+qDozqZ5vT2P3LhqQz2vYpmE=
+
+Name: assets/publish/UIShop.png
+SHA1-Digest: J/ctTkFNd+I9Amr7mVnGicrdT/0=
+
+Name: assets/publish/UICheckBox.plist
+SHA1-Digest: PQxCdJEsXew3WVR5I5Jdwh6GQ04=
+
+Name: assets/publish/UIPopDialogBoxFirstRecharge.ExportJson
+SHA1-Digest: GgCiZ7RW4KMTvcyPifAIUfIElNk=
+
+Name: assets/publish/UILobbyHorn.ExportJson
+SHA1-Digest: ROMD3Xr8HiUy0Am4zNVA0fKpKSM=
+
+Name: assets/publish/UIWealthRanking.plist
+SHA1-Digest: IBkrDiDQUpDFwDJGUl08DHy6g50=
+
+Name: assets/publish/AnimationLogonSprite.ExportJson
+SHA1-Digest: SKxN2x8a3+4SJm1Rb5qhpNVMbC8=
+
+Name: assets/com.tencent.plus.bar.png
+SHA1-Digest: Uqc6Y8bgiyAUESBhMAg2jzRRLpk=
+
+Name: assets/sound/otherOx/ox3.m4a
+SHA1-Digest: y3dMreMP3cxd8mmGyBevA++aelo=
+
+Name: assets/com.tencent.plus.gray_normal.png
+SHA1-Digest: P6NA2qEQVIJ4nGyUaUEQaY6LYrQ=
+
+Name: assets/publish/num/num_timer.png
+SHA1-Digest: 9COfB6YVOCU5fUuVGXLb7Kq+Z/U=
+
+Name: assets/music/ox_backbround.m4a
+SHA1-Digest: PmkanutTScbzTx2duX+GsxHLFD0=
+
+Name: assets/publish/UIGameHUD.ExportJson
+SHA1-Digest: DcXIU//vN9gJZ1PZDi38LDbTzLg=
+
+Name: assets/publish/UIBank.plist
+SHA1-Digest: 0YTqtDKyS7pS6BNYpAC38ciuHkU=
+
+Name: assets/publish/UIPanel.plist
+SHA1-Digest: DX8oUCQvJ8q90/SBUOaKPLCXMTA=
+
+Name: assets/sound/otherOx/Check.wav
+SHA1-Digest: 5OkjjINh9RbUpCeyfuWU4pAG2lc=
+
+Name: assets/publish/UIPopDialogBoxShop.ExportJson
+SHA1-Digest: 6PV7d+WnVGs+ZlRJzIj5a99VHPw=
+
+Name: assets/publish/AnimationGameIng.png
+SHA1-Digest: Mf93IkgClxOeA+/xIeyZy3AP0fU=
+
+Name: assets/libwbsafeedit_x86
+SHA1-Digest: 67rttWwCjQ7B+ID6mRPgFcetOyQ=
+
+Name: assets/publish/UIPanel.png
+SHA1-Digest: v/TuNr5PmylECnfTTdohpFhQnn8=
+
+Name: assets/publish/AnimationBeginGame.ExportJson
+SHA1-Digest: zPgcZbGPkdEk3+aorrhvMYS3si4=
+
+Name: res/drawable-xxhdpi/b_web_back.png
+SHA1-Digest: OZumUJ9Ksk+ZN+AleS/ky0V7rmU=
+
+Name: assets/publish/UIPopDialogBoxShare.ExportJson
+SHA1-Digest: HqU6qc9coYbdCM/IJ5a3UGgHdls=
+
+Name: assets/publish/UIPopDialogBoxOnline.ExportJson
+SHA1-Digest: WTtiyHimgQx6Q/44925/Ay1+Yjs=
+
+Name: assets/publish/UIMsg.plist
+SHA1-Digest: 0pcacfEg/YjHOWd1FglGyufoEK4=
+
+Name: assets/publish/UIUserInfo.plist
+SHA1-Digest: 0xJZxHJMFW7lPfIZNZkcqjxrpww=
+
+Name: assets/publish/UIShare.png
+SHA1-Digest: SyfnP8XH1CTArJRdTJGv5CM8zUA=
+
+Name: assets/publish/UIVip.png
+SHA1-Digest: 6PmUOHPKySrj/1Sixwo9dSQF+JA=
+
+Name: assets/sound/otherOx/GAME_END.m4a
+SHA1-Digest: FDr0YX1mu9yFSf99Qj6hQsjHwAo=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: p2y+iwLCmD3zLQGe479dLewbmPg=
+
+Name: assets/publish/UIPopDialogBoxMsg.ExportJson
+SHA1-Digest: BuyvnAfyTkBOajjMxQV9Mu76V24=
+
+Name: assets/particle/sakura.plist
+SHA1-Digest: o6uZWN78o/iKMZ8bfPlDbqCJ1TA=
+
+Name: assets/publish/UIMore.png
+SHA1-Digest: swI5l3O2/3leF4InD5qQpcsXKP0=
+
+Name: assets/publish/UIMsg.png
+SHA1-Digest: B121kHd2QsjNU4KDDGBIemglWKY=
+
+Name: assets/publish/UIGameIngHundred.ExportJson
+SHA1-Digest: GMUrZ0EzGIKgNamWTUCcY0nta4Y=
+
+Name: assets/publish/UIConnectFailure.png
+SHA1-Digest: /UGqbRBpqFzbRTnFYFQDqUd4SEQ=
+
+Name: assets/sound/DISPATCH_CARD.wav
+SHA1-Digest: qYO8HhmmrE5Cv+Nk+IFoe4h3nFo=
+
+Name: assets/publish/UILoadingBar.plist
+SHA1-Digest: o3vxGwd3c6Ih6nWTAqzx262ZBt0=
+
+Name: assets/publish/UIGiftExchang.ExportJson
+SHA1-Digest: g+++GUVfElVpAV7JUMLujNcGTxA=
+
+Name: assets/publish/UIPopDialogBoxUpdateTipInfo.ExportJson
+SHA1-Digest: 7N1CMkvbmFqBXIm1zDCMaryKBSY=
+
+Name: assets/publish/UIRecharge.png
+SHA1-Digest: O1YpZxZVts+6yJHacG/uRGxQaaI=
+
+Name: assets/com.tencent.plus.ic_success.png
+SHA1-Digest: nfo99+6yphuEgBIZu6+cg0j1+3k=
+
+Name: assets/publish/UIMode.plist
+SHA1-Digest: tuLE9iai+dtlUuvlgqXE4u9lWjY=
+
+Name: assets/publish/UIGameIng.plist
+SHA1-Digest: 5le79q7pr5rWJI77R1KpBjdJqak=
+
+Name: assets/shader/efx_blur.fsh
+SHA1-Digest: w3khQvo0/UtRSXTkuOYP6zSQ2e4=
+
+Name: assets/sound/otherOx/Click.wav
+SHA1-Digest: lEnp2qS9nTkar07N6DBAYkAzJJc=
+
+Name: assets/publish/UIForgetPwd.png
+SHA1-Digest: C6XuEIfDK/PMN4KR4CmdN3ij9N0=
+
+Name: assets/publish/UISetUp.plist
+SHA1-Digest: ncK2ZA/b3Yu18IhN+ooM/k7EnRw=
+
+Name: assets/sound/otherOx/ox4.m4a
+SHA1-Digest: QB0UTtpM+3BPWrx9TFpnTFmzhaE=
+
+Name: assets/publish/AnimationLoading.ExportJson
+SHA1-Digest: mvkHI+LpEoYO2/NZ+Bgbluws1CA=
+
+Name: assets/publish/UIWealthRanking.png
+SHA1-Digest: 6qsrJOIITxiC+G1MrpQ7tmAz83Y=
+
+Name: assets/sound/otherOx/GAME_WIN.m4a
+SHA1-Digest: xQwsHPbbPsnzA6TnhdTs15FcENo=
+
+Name: assets/publish/UIDial.plist
+SHA1-Digest: uFAug7eR0BG4ZyTKP+1SMj02fd8=
+
+Name: assets/publish/UIRanking.png
+SHA1-Digest: x31Xn63Vs43JFWxHGCbhoIkNBWg=
+
+Name: assets/yyb_qzone.png
+SHA1-Digest: 9YwbRhD/FPWk5WZtaWPDQCeM2aE=
+
+Name: assets/publish/AnimationCompanyLogo.plist
+SHA1-Digest: GDmzvx5+XybrqgeyLzNqSkHtin8=
+
+Name: assets/sound/otherOx/ox6.m4a
+SHA1-Digest: 5aBi8dMEQQ2bYYlZmw1rBOra8Ho=
+
+Name: assets/publish/AnimationOxType.ExportJson
+SHA1-Digest: iRyP9YfFy7ok+zmfnb94cXJIKZo=
+
+Name: assets/publish/Font.plist
+SHA1-Digest: zBO68/yTrnBpXQUPof1AXLVwyYY=
+
+Name: assets/publish/UIMode.png
+SHA1-Digest: TLDLxVBhoQCyh9EqPCABJtPG+ng=
+
+Name: assets/res/u_input.png
+SHA1-Digest: cxGD/uHcpN+ka6slsIxefIkQnec=
+
+Name: resources.arsc
+SHA1-Digest: 3uEwqRc8xNx4p0iPgo6/vDV27+g=
+
+Name: assets/yyb_appdetail_showmore.png
+SHA1-Digest: XZfoqTP4iYo9uLRrqWXGpj/YMUs=
+
+Name: assets/publish/num/num_hundred_end.png
+SHA1-Digest: oOkz9k0TQoXw8e+5UhNsE1m2EYI=
+
+Name: assets/yyb_qq.png
+SHA1-Digest: /3M2VIdrF67YcAmVCOgoG38FyCU=
+
+Name: AndroidManifest.xml
+SHA1-Digest: x3FynW2nH1fFfx9WYpUwFsnA3Xk=
+
+Name: res/drawable-xxhdpi/icon.png
+SHA1-Digest: 6oWURjrkxoxZT3h+utaRPvWrFHs=
+
+Name: assets/res/main_bg.jpg
+SHA1-Digest: QNmB2rFqt/4N2MfgtOOVwAl0hM0=
+
+Name: assets/publish/AnimationLogonLight.ExportJson
+SHA1-Digest: C4aRmoLnkeRZgHDGtp9YA3cBC4M=
+
+Name: res/drawable-mdpi/b_web_back.png
+SHA1-Digest: oInAjWRJBol/Be8ykmskZ9V8nuQ=
+
+Name: assets/publish/AnimationMenuTitle.plist
+SHA1-Digest: tlmRN8Kos7q5AGomvAB/ZUdhp9I=
+
+Name: assets/publish/UIGiftExchang.png
+SHA1-Digest: n9v1tfgAH8CrMhpdwaOXBdr2Xg8=
+
+Name: assets/publish/UIGameIngHundred.plist
+SHA1-Digest: H80DoKGVM+Wjf2Z1Hr+Z61H2HTk=
+
+Name: assets/publish/AnimationDial.ExportJson
+SHA1-Digest: Wj2R6DXZwRhRNfESVrP1SY5CLXU=
+
+Name: assets/com.tencent.open.config.json
+SHA1-Digest: TCAijjFuxJdEM20Vc3Fnk4fUJoQ=
+
+Name: assets/publish/UILoadingBar.png
+SHA1-Digest: fy2jfe9i96X3rbVkhLzv5/x3koc=
+
+Name: assets/music/BACK_GROUND.m4a
+SHA1-Digest: wyUeDcGHoggc7DVNvIzT9mGK7jE=
+
+Name: assets/publish/AnimationLogonLight0.plist
+SHA1-Digest: PAnsC4EgfWeKU/pYGDlbIAVf9iw=
+
+Name: assets/publish/AnimationLogonOx1.png
+SHA1-Digest: 0+iH74uFhdKaXhSi9Cyscy1CDxI=
+
+Name: assets/publish/AnimationLogonLight0.png
+SHA1-Digest: UDwQaEZJtXTgErjtaHhjpcdw8KM=
+
+Name: classes.dex
+SHA1-Digest: 6DoZwC2FCBcn0jS/OxavIIkLhe8=
+
+Name: assets/publish/UIGameIngHundred.png
+SHA1-Digest: rwRn7wfy2ed9CqnZePwK2HE606k=
+
+Name: assets/publish/AnimationDial.plist
+SHA1-Digest: Mb7WPhUSi3dkUSxCb+QGBOZverE=
+
+Name: assets/sound/otherOx/ox5.m4a
+SHA1-Digest: 4oyJRUgDOAORJ5LmBoi2GdzEiBk=
+
+Name: assets/publish/UIPopDialogBoxInputExchange.ExportJson
+SHA1-Digest: bGK1UP659znaa2lLnYmALDXPEDQ=
+
+Name: assets/publish/UIUserIcon.png
+SHA1-Digest: uC3spiHgHImhqHa+ibWGtIadV40=
+
+Name: assets/button_green.9.png
+SHA1-Digest: 72N51zPrka+KUNiJfTjwx3sHXAI=
+
+Name: assets/publish/UIRanking.plist
+SHA1-Digest: rekyMBlA/uPAOxbWPXyRj2t2n6U=
+
+Name: assets/com.tencent.plus.blue_normal.png
+SHA1-Digest: xUbCnopVA5SB7IPOU07W9fIdgcQ=
+
+Name: assets/com.tencent.plus.logo.png
+SHA1-Digest: B+1AMe3cF/KE17U2+A9Ol1T9mEA=
+
+Name: assets/buttonPost.png
+SHA1-Digest: jAZacXy5ocEht6Mv0CIw6+BDN/w=
+
+Name: assets/sound/END_DRAW.m4a
+SHA1-Digest: GVSihmcFWpo96o2vi5Awz5uQQ/8=
+
+Name: assets/buttonNegt.png
+SHA1-Digest: M/KJLlnIIzm0mx/H8xU6UaR6OUo=
+
+Name: assets/publish/UIPopDialogBoxAuction.ExportJson
+SHA1-Digest: EBh9N8SC0oS/GPeZG69ZXFF/DuY=
+
+Name: assets/button_red.9.png
+SHA1-Digest: z8N2pqVNkCyZz5wtpznaYVj1Als=
+
+Name: assets/sound/otherOx/GAME_START.m4a
+SHA1-Digest: zc0/wPqBv157ChEoOGMSkXX5Wo8=
+
+Name: assets/publish/UIHorn.plist
+SHA1-Digest: pTsTrmtlCUxpmCigHiBIvy2af7M=
+
+Name: assets/publish/UIPopDialogBoxSetUp.ExportJson
+SHA1-Digest: OvFm1ZaaisYZQslrXa1UJtimE50=
+
+Name: assets/publish/UIMore.plist
+SHA1-Digest: 0+jfJbTl4m7GBRpwT1quk4pkfCM=
+
+Name: assets/publish/AnimationLoading.plist
+SHA1-Digest: Y9VVLDz9hQGleSMCB0FuDBZPuQI=
+
+Name: assets/publish/UIBank.png
+SHA1-Digest: PSOQWBnMIiNFJIqUt1k3C5Hoxqs=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: UeMdsgAsOIESS1GFK77n8OY2Rfo=
+
+Name: assets/publish/UIPopDialogBoxLoadingOther.ExportJson
+SHA1-Digest: LZGN0qWVFP3BY2SK+k1Jys87Krk=
+
+Name: assets/publish/UIPopDialogBoxRanking.ExportJson
+SHA1-Digest: BJe9oCeDPd9QGkW7nDQemy+a/Zc=
+
+Name: assets/publish/AnimationOxType.png
+SHA1-Digest: s75xPzSsBn1Gd6OOL05WOmH+4Gw=
+
+Name: assets/com.tencent.plus.gray_disable.png
+SHA1-Digest: 0fMmhHNVjPOxFO8244xzl2vO0Jw=
+
+Name: assets/sound/TIME_WARIMG.m4a
+SHA1-Digest: gwgroBu7BosKixL46z1ycvv8cSo=
+
+Name: res/drawable-xxxhdpi/b_web_back.png
+SHA1-Digest: ukqWpColy17BvODhCz0Zg381EcQ=
+
+Name: assets/publish/AnimationGameEnd.plist
+SHA1-Digest: OZiQ8c1jkoxsB6O0XEKUqHxsB8A=
+
+Name: assets/publish/UIShare.plist
+SHA1-Digest: P7J5mVfGlZls0GCvzbeme3h9ivs=
+
+Name: assets/publish/UIGameLobby.plist
+SHA1-Digest: hoU2CYGD6TGGqzgDSBQ0+cx2HvA=
+
+Name: assets/sound/END_LOST.m4a
+SHA1-Digest: Fe4aD3BWXIxL/U2lxz1PJd8s4aM=
+
+Name: assets/publish/UIKnapsack.plist
+SHA1-Digest: QxaBZA05n91LZrgyZVk9HBI9RZA=
+
+Name: assets/publish/UIGiftExchang.plist
+SHA1-Digest: 5gvdyGCGP969msgIkhRDNCTo3T0=
+
+Name: assets/publish/AnimationGameIng.plist
+SHA1-Digest: GKmGu98Exdg1liF8a3/egdX0p0Y=
+
+Name: assets/publish/AnimationActionPrompt.plist
+SHA1-Digest: /zxb10fcpF9f/AHpjRY9eMIQnNY=
+
+Name: assets/publish/num/num_vip.png
+SHA1-Digest: AISp63pCR/iS1vjIy6j7M3R+fho=
+
+Name: assets/sound/otherOx/ADD_SCORE.WAV
+SHA1-Digest: cxCTRY3rmpu5MCu8iVeOPJGWI2A=
+
+Name: assets/sound/ADD_GOLD.m4a
+SHA1-Digest: UuN6SKytbTe6K5qhVcrEFxaec1I=
+
+Name: assets/sound/otherOx/GAME_LOST.m4a
+SHA1-Digest: hObRNmmUEkuhTEH/Kl8r2PveHGM=
+
+Name: assets/publish/UIHorn.png
+SHA1-Digest: R0HdkSYGBxIJAwaiaVDPiJgMGcE=
+
+Name: assets/data/str.plist
+SHA1-Digest: duQ1/nsWOSHMiQowwOFzUi0DFgg=
+
+Name: assets/publish/AnimationLogonOx.plist
+SHA1-Digest: bSH1cKHB/y1HD+DSNuVJFkSvrqE=
+
+Name: assets/publish/UIPopDialogBoxVip.ExportJson
+SHA1-Digest: SDBgdH3ZKCMsmL+Z28iqrFnUA3A=
+
+Name: assets/publish/UISign.png
+SHA1-Digest: KLE1hYLFT7jATV9irEttfgNni6w=
+
+Name: assets/publish/AnimationMenuTitle.ExportJson
+SHA1-Digest: DD/IYsV0s5gLO8f86bGfGEHXcdA=
+
+Name: assets/yyb_topbar.9.png
+SHA1-Digest: LLKtjzYthbE3BkyGk+0D+lEJsaQ=
+
+Name: assets/sound/otherOx/GAME_OXOX.wav
+SHA1-Digest: QzpoI4MOKnggDoisqaLhXnWgiNA=
+
+Name: assets/publish/UIPopDialogBoxLoading.ExportJson
+SHA1-Digest: w4Nx50KBdVyotec+Btr3s5D7q/U=
+
+Name: assets/publish/AnimationCard.ExportJson
+SHA1-Digest: eUEWQkHgQR+TRYg2HNSIXK2U/sc=
+
+Name: assets/publish/UIHelp.plist
+SHA1-Digest: UIt+SLPoegey8a71HMrcF9lNwtA=
+
+Name: assets/publish/UIButton.plist
+SHA1-Digest: pCzPnC9Ze9MPGGxh9nX+KIOdVQ8=
+
+Name: assets/yyb_weixin.png
+SHA1-Digest: JE2FXpgR+H3RdypnuvvwC7wPVVg=
+
+Name: assets/publish/AnimationMenuTitle.png
+SHA1-Digest: KKVOtZbBGt5AvObQs5nIOrsl6Zk=
+
+Name: res/drawable-xhdpi/icon.png
+SHA1-Digest: HjdtnVlbdnGMDZ9PcXZiXjbFYyY=
+
+Name: assets/com.tencent.plus.ic_error.png
+SHA1-Digest: HisWESn8PSVNnjhjfsbMtsajomo=
+
+Name: assets/sound/lobby/reward.m4a
+SHA1-Digest: pa+1AQ7Yll1yo/f0HuiYMhp9/Nw=
+
+Name: assets/background.9.png
+SHA1-Digest: M3YQ4bymCLlirCApFCkEMdWdqrA=
+
+Name: assets/publish/UISign.plist
+SHA1-Digest: gBC3H5BmisdRFuGA7xslfUCoug4=
+
+Name: lib/armeabi/libcocos2dcpp.so
+SHA1-Digest: mScFg1pRG7K8kz57iJFXLqKPOo0=
+
+Name: assets/com.tencent.plus.gray_down.png
+SHA1-Digest: 3kvmQFE/DE41dwoZpkQMHPpWtuI=
+
+Name: assets/sound/otherOx/ox8.m4a
+SHA1-Digest: 6KFTv5dMK/Tp4lI+pblxslotfgM=
+
+Name: assets/publish/UIClassicLobby.ExportJson
+SHA1-Digest: uIcbqunLISPL0SgBrh7xFP/xxzU=
+
+Name: assets/publish/UIConnectFailure.plist
+SHA1-Digest: d4Ak5DnB8hOLh4oz9IXSf/0ZXHg=
+
+Name: res/drawable-xhdpi/b_web_back.png
+SHA1-Digest: sGfCz9/N/BYZWm/SX2mgaHn4RmA=
+
+Name: assets/publish/num/num_game_end.png
+SHA1-Digest: BCWiMk+qNovqnr976o9jmLskjNA=
+
+Name: assets/publish/UISetUp.png
+SHA1-Digest: 4bg5VCMFgExssVczriukjbeC7NY=
+

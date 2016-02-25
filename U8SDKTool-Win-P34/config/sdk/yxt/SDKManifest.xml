@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <permissionConfig>
+        
+        <uses-permission android:name="android.permission.INTERNET" />
+   		<uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    	<uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+   		<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+		<uses-permission android:name="android.permission.READ_PHONE_STATE" />
+		<uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+
+        
+    </permissionConfig>
+    
+    <applicationConfig keyword="com.yyjia.sdk.PayActivity">
+    	<activity
+            android:name="com.yyjia.sdk.PayActivity"
+            android:theme="@android:style/Theme.Light.NoTitleBar"
+            android:configChanges="orientation|keyboardHidden|navigation"
+            android:screenOrientation="sensor">
+        </activity>
+         <activity
+         	android:name="com.alipay.sdk.app.H5PayActivity"
+			android:configChanges="orientation|keyboardHidden|navigation"
+			android:exported="false"
+			android:screenOrientation="behind" >
+			</activity> 
+        <activity
+			android:name="com.alipay.sdk.auth.AuthActivity"
+			android:configChanges="orientation|keyboardHidden|navigation"
+			android:exported="false"
+			android:screenOrientation="behind" >
+			</activity>
+
+    	
+    </applicationConfig>
+    
+</manifest>

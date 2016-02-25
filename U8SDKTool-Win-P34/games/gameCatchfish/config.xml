@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xml>
+
+
+
+	<channels>		
+
+		<channel>
+			<param name="id" value="113" />
+			<param name="name" value="txmsdk" />
+			<param name="sdk" value="txmsdk" />
+			<param name="desc" value="腾讯应用宝(MSDK)" />
+			<param name="suffix" value="com.tencent.tmgp.GameCatchFish" />
+			<param name="splash" value="0" />
+			<param name="splash_copy_to_unity" value="0" />
+			<param name="icon" value="rb" />
+
+			<sdk-params>
+
+				<param desc="QQAppID" name="WG_QQAPPID" value="1104911455" />
+				<param desc="QQAppKey" name="WG_QQAPPKEY" value="8vL7KIT7gYlambwf" />  
+				<param desc="微信AppID" name="WG_WXAPPID" value="wx15edd657d49f3f2a" />
+				<param desc="微信AppKey" name="WG_MSDKKEY" value="5243829a12b35bc9de16ed5fe21c2499" /> 
+				<param desc="OfferId,一般就是QQ AppId" name="WG_OFFERID" value="1104911455" />
+				<param desc="test(测试环境)|release(正式环境)" name="WG_ENV" value="release" />  
+				<param desc="是否开启日志 true|false" name="WG_DEBUG_MODE" value="true" />
+				<param desc="是否定额支付 true|false" name="WG_FIXEDPAY" value="true" /> 
+				<param desc="支付界面游戏币Icon名称，drawable资源目录下的文件名称，不带后缀" name="WG_COIN_ICON_NAME" value="coin_icon" />	
+
+				<param desc="true|false" name="WG_MULTI_SERVERS" value="false" />	
+				<param desc="服务器处理查询充值逻辑的地址" name="WG_PAY_URL" value="http://pay.qicainiu.com/Pay/TencentAppReceive.aspx" />	
+
+			</sdk-params>
+
+			<sdk-version>
+				<versionCode>1</versionCode>   
+				<versionName>2.8.1</versionName>
+			</sdk-version>				
+
+		</channel>						
+
+		<channel>
+			<param name="id" value="137" />
+			<param name="name" value="baidu" />
+			<param name="sdk" value="baidu" />
+			<param name="desc" value="百度" />
+			<param name="suffix" value="com.xw.gameCatchFish.baidu" />
+			<param name="splash" value="0" />
+			<param name="splash_copy_to_unity" value="0" />
+			<param name="icon" value="rb" />
+
+			<sdk-params>
+				<param desc="BD_APPID" name="BD_APPID" value="7255853" />
+				<param desc="BD_APPKEY" name="BD_APPKEY" value="GKUF3g9ZHAe21juj8nR5FpY5" />
+				<param desc="BD_FIXEPAY" name="BD_FIXEPAY" value="true" />
+				<param desc="BD_RATIO" name="BD_RATIO" value="1" />
+				<param desc="BDPlatformType" name="BDPlatformType" value="0" />
+				<param desc="BAIDUSDK_CHANNEL" name="BAIDUSDK_CHANNEL" value="13744" />
+				<param desc="DUOKUSDK_CHANNEL" name="DUOKUSDK_CHANNEL" value="700" />
+			</sdk-params>
+
+			<sdk-version>
+				<versionCode>1</versionCode>   
+				<versionName>3.5.2</versionName>
+			</sdk-version>
+		</channel>
+
+		</channels>
+
+</xml>

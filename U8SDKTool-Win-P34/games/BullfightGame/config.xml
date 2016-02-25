@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xml>
+
+
+
+	<channels>		
+
+		<channel>
+			<param name="id" value="112" />
+			<param name="name" value="txmsdk" />
+			<param name="sdk" value="txmsdk" />
+			<param name="desc" value="腾讯应用宝(MSDK)" />
+			<param name="suffix" value="com.tencent.tmgp.xwNewBullfightGame" />
+			<param name="splash" value="0" />
+			<param name="splash_copy_to_unity" value="0" />
+			
+
+			<sdk-params>
+
+				<param desc="QQAppID" name="WG_QQAPPID" value="1105105940" />
+				<param desc="QQAppKey" name="WG_QQAPPKEY" value="v4zmPOp24miiFUwW2HhrFCQB55Zhvz9P" />  
+				<param desc="微信AppID" name="WG_WXAPPID" value="wxacbb8a4f782c2ab4" />
+				<param desc="微信AppKey" name="WG_MSDKKEY" value="712dd748f3b73b6d93bceada6e60b862" /> 
+				<param desc="OfferId,一般就是QQ AppId" name="WG_OFFERID" value="1105105940" />
+				<param desc="test(测试环境)|release(正式环境)" name="WG_ENV" value="release" />  
+				<param desc="是否开启日志 true|false" name="WG_DEBUG_MODE" value="true" />
+				<param desc="是否定额支付 true|false" name="WG_FIXEDPAY" value="true" /> 
+				<param desc="支付界面游戏币Icon名称，drawable资源目录下的文件名称，不带后缀" name="WG_COIN_ICON_NAME" value="coin_icon" />	
+
+				<param desc="true|false" name="WG_MULTI_SERVERS" value="false" />	
+				<param desc="服务器处理查询充值逻辑的地址" name="WG_PAY_URL" value="http://pay.qicainiu.com/Pay/TencentAppNiuNiuReceive.aspx" />	
+
+			</sdk-params>
+
+			<sdk-version>
+				<versionCode>1</versionCode>   
+				<versionName>2.8.1</versionName>
+			</sdk-version>				
+
+		</channel>						
+
+		<channel>
+			<param name="id" value="162" />
+			<param name="name" value="baidu" />
+			<param name="sdk" value="baidu" />
+			<param name="desc" value="百度" />
+			<param name="suffix" value="com.xw.baidu.BullfightGame" />
+			<param name="splash" value="0" />
+			<param name="splash_copy_to_unity" value="0" />
+			<param name="icon" value="rb" />
+
+			<sdk-params>
+				<param desc="BD_APPID" name="BD_APPID" value="7499991" />
+				<param desc="BD_APPKEY" name="BD_APPKEY" value="zAyAU9yZGO1LW4YqumgPBcto" />
+				<param desc="BD_FIXEPAY" name="BD_FIXEPAY" value="true" />
+				<param desc="BD_RATIO" name="BD_RATIO" value="1" />
+				<param desc="BDPlatformType" name="BDPlatformType" value="0" />
+				<param desc="BAIDUSDK_CHANNEL" name="BAIDUSDK_CHANNEL" value="13744" />
+				<param desc="DUOKUSDK_CHANNEL" name="DUOKUSDK_CHANNEL" value="700" />
+			</sdk-params>
+
+			<sdk-version>
+				<versionCode>1</versionCode>   
+				<versionName>3.5.2</versionName>
+			</sdk-version>
+		</channel>
+
+		<channel>
+			<param name="id" value="180" />
+			<param name="name" value="yxt" />
+			<param name="sdk" value="yxt" />
+			<param name="desc" value="云霄堂" />
+			<param name="suffix" value="com.xw.yxt.BullfightGame" />
+			<param name="splash" value="0" />
+			<param name="splash_copy_to_unity" value="0" />
+
+			<sdk-params>
+				<param desc="YYJIA_COOPID" name="YYJIA_COOPID" value="1" />
+				<param desc="YYJIA_APPID" name="YYJIA_APPID" value="5030" />
+			</sdk-params>
+
+			<sdk-version>
+				<versionCode>1</versionCode>   
+				<versionName>2.0</versionName>
+			</sdk-version>
+		</channel>
+		
+		<channel>
+			<param name="id" value="182" />
+			<param name="name" value="xmi" />
+			<param name="sdk" value="xmi" />
+			<param name="desc" value="小米" />
+			<param name="suffix" value="com.xw.BullfightGame.mi" />
+			<param name="splash" value="0" />
+			<param name="splash_copy_to_unity" value="0" />
+
+			<sdk-params>
+				<param desc="XM_APPID" name="XM_APPID" value="2882303761517437242" />
+				<param desc="XM_APPKEY" name="XM_APPKEY" value="5731743743242" />
+			</sdk-params>
+
+			<sdk-version>
+				<versionCode>1</versionCode>   
+				<versionName>4.4.33</versionName>
+			</sdk-version>
+		</channel>
+
+		<channel>
+			<param name="id" value="186" />
+			<param name="name" value="oppo" />
+			<param name="sdk" value="oppo" />
+			<param name="desc" value="oppo" />
+			<param name="suffix" value="com.BullfightGame.nearme.gamecenter" />
+			<param name="splash" value="0" />
+			<param name="splash_copy_to_unity" value="0" />
+
+			<sdk-params>
+				<param desc="OPPO_APPID" name="OPPO_APPID" value="3nAgmCStgt2C0WO0Wccgk08C0" />
+				<param desc="OPPO_SECRET" name="OPPO_SECRET" value="c477b35Bd18a42c59307452Ca27024a8" />
+				<param desc="OPPO_PAYURL" name="OPPO_PAYURL" value="http://121.40.231.233:8019/Pay/OPPOReceive.aspx" />
+			</sdk-params>
+
+			<sdk-version>
+				<versionCode>1</versionCode>   
+				<versionName>2.0</versionName>
+			</sdk-version>
+		</channel>
+
+		<channel>
+			<param name="id" value="176" />
+			<param name="name" value="atet" />
+			<param name="sdk" value="atet" />
+			<param name="desc" value="ATET" />
+			<param name="suffix" value="com.xw.BullfightGame" />
+			<param name="splash" value="0" />
+			<param name="splash_copy_to_unity" value="0" />
+			<param name="icon" value="rb" />
+
+			<sdk-params>
+				<param desc="ATET_APPID" name="ATET_APPID" value="20151230110145416448" />
+				<param desc="ATET_APPKEY" name="ATET_APPKEY" value="MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGBAJfbnr8w4h+jl0my8k8m/YAH+BzMcSK6iWsVQHF4supkgYJ92ovuZgYyKF+00TYBKhPF7A2ij7+6cf+oM3X5Xl6N+YykKbfNovSET8tJhHsF8INJ9/R+Ze3Fwg//YCFvaCChEyomlP6+//HAj/zS24QZPrABVwlQ3gIsqyVcC+J3AgMBAAECgYEAkp8FJlqfaab9EraJiG0ABBctszid38c1mUO6phTAwtlpxkGXutXiggb5vnaKLVdwdgj6gqu7mYX+Pbb8gOLV/n30eZ2lL9WzDbQ4nzTg53Dech9nRAYqc6bIVu3T/8XNBBZgnE9SO+B/PcmgLiK2j+OPK2YVNs7eOnReu25d7ckCQQDTR7m47kSi5p6HbQNjlE8OeHgoqMMDXqrX7BOHn9kTSstwaa9JNRymBS3+0AmjE5Jqa2X2CB/8r/zUU9Go/mfrAkEAuAAU6XLpFV7rQMJimpg2enP9XgN435UYsetGnu0KuW356tvSZ+zxpn1c5j8I2Qe9A/RuiyJCaz+LqgC92aa4pQJAFP5bhfSm/UjNF8fNPmfOMzHlPqUGO598elgK2L8ZYsFb1Z+quyt73UNGfrtNOdcIBWsGhpvoEcOq664odxJQYQJAEJ2BRetofNOLbteey9L+6GPc90Zc/eOazUYvpF5HX6M8tCaRg2z0DVK4ttnuVJrMSLUj3lCDquecFwfmHOdfOQJAUVXr3tIK0E3LmaNi94uZjeZ1X6urfrjnXQ13D57nJIqAmMkpAx1LcH0ZOHB8dCSDM9AWuXPBd8nicUTypmEtGg==" />
+				<param desc="ATET_ISNEEDLOGON" name="ATET_ISNEEDLOGON" value="false" />
+				<param desc="ATET_CPID" name="ATET_CPID" value="20151225171021788415" />
+				<param desc="ATET_PAYURL" name="ATET_PAYURL" value="http://pay.qicainiu.com/Pay/ATETPayReceive.aspx" />
+				<param desc="ATET_PAYFLAG_10" name="ATET_PAYFLAG_10" value="2484" />
+				<param desc="ATET_PAYFLAG_30" name="ATET_PAYFLAG_30" value="2485" />
+				<param desc="ATET_PAYFLAG_50" name="ATET_PAYFLAG_50" value="2486" />
+				<param desc="ATET_PAYFLAG_100" name="ATET_PAYFLAG_100" value="2487" />
+				<param desc="ATET_PAYFLAG_200" name="ATET_PAYFLAG_200" value="2488" />
+				<param desc="ATET_PAYFLAG_500" name="ATET_PAYFLAG_500" value="2489" />
+
+			</sdk-params>
+
+			<sdk-version>
+				<versionCode>1</versionCode>   
+				<versionName>4.0.2</versionName>
+			</sdk-version>
+		</channel>
+		</channels>
+
+</xml>

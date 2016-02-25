@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+
+	<dict>
+		<key>strPiceWan</key>
+		<string>万</string>
+		<key>strSexBoy</key>
+		<string>男</string>
+		<key>strSexGirl</key>
+		<string>女</string>
+		<key>strGameFree</key>
+		<string>本轮即将开始</string>
+		<key>strGameStart</key>
+		<string>请下注</string>
+		<key>strGameEnd</key>
+		<string>休息一下...</string>
+		<key>strLoading</key>
+		<string>正在载入</string>
+		<key>strOutTime</key>
+		<string>连接超时！</string>
+		<key>strWaitCodeing</key>
+		<string>敬请期待</string>
+
+		<key>strPasswordEmpty</key>
+		<string>密码不能为空！</string>
+		<key>strPasswordInconsistent</key>
+		<string>两次密码输入不一致，请重新输入！</string>
+		<key>strInsurePasswordLeng</key>
+		<string>密码必须大于8位以上</string>
+		<key>strInsurePasswordNum</key>
+		<string>密码不能全是数字</string>
+		<key>strSaveLimit</key>
+		<string>存入的游戏币数量不能为空，请重新输入游戏币数量</string>
+		<key>strTakeOutLimit</key>
+		<string>取出的游戏币数量不能为空，请重新输入游戏币数量</string>
+		<key>strInsureNotEnough</key>
+		<string>您当前保险柜的游戏币余额不足，游戏币提取失败</string>
+		<key>strScoreNotEnough</key>
+		<string>您当前游戏币的可用余额不足，游戏币存入失败！</string>
+
+		<key>strBuyTypeAuction</key>
+		<string>购买数量</string>
+		<key>strBuyTypeShop</key>
+		<string>兑换数量</string>
+		<key>strLottery</key>
+		<string>奖券</string>
+		<key>strAllPice</key>
+		<string>总价</string>
+
+		<key>strAuctionSell</key>
+		<string>卖出</string>
+		<key>strAuctionBuy</key>
+		<string>买入</string>
+		<key>strAuctionSeller</key>
+		<string>[卖家]</string>
+		<key>strAuctionBuyers</key>
+		<string>[买家]</string>
+		<key>strSelectAuctionGoods</key>
+		<string>请选择要拍卖的道具</string>
+		<key>strInputAuctionGoodsPice</key>
+		<string>请正确填写拍卖单价</string>
+		<key>strInputAuctionGoodsNum</key>
+		<string>请正确填写数量</string>
+	</dict>
+
+</plist>
