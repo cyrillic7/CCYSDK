@@ -167,11 +167,10 @@ public class OPPOSDK {
 	}
 	
 	public void pay(final PayParams data){
-		int amount = 100;//data.getPrice()*100;
-		PayInfo payInfo = new PayInfo(System.currentTimeMillis()
-				+ new Random().nextInt(1000) + data.getOrderID(), "自定义字段", amount);
-		payInfo.setProductDesc(data.getProductDesc());
-		payInfo.setProductName(data.getProductName());
+		int amount = data.getPrice()*100;
+		PayInfo payInfo = new PayInfo(data.getOrderID(), String.valueOf(data.getPrice()), amount);
+		payInfo.setProductDesc(String.valueOf(data.getPrice()));
+		payInfo.setProductName("元宝");
 		payInfo.setCallbackUrl(this.payUrl);
 		
 		GameCenterSDK.getInstance().doPay(U8SDK.getInstance().getContext(), payInfo, new ApiCallback() {
