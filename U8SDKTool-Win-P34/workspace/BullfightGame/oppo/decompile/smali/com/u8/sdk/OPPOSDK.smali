@@ -370,7 +370,7 @@
     .registers 4
 
     .prologue
-    .line 198
+    .line 197
     invoke-static {}, Lcom/nearme/game/sdk/GameCenterSDK;->getInstance()Lcom/nearme/game/sdk/GameCenterSDK;
 
     move-result-object v0
@@ -383,95 +383,71 @@
 
     move-result-object v1
 
-    .line 199
+    .line 198
     new-instance v2, Lcom/u8/sdk/OPPOSDK$6;
 
     invoke-direct {v2, p0}, Lcom/u8/sdk/OPPOSDK$6;-><init>(Lcom/u8/sdk/OPPOSDK;)V
 
-    .line 198
+    .line 197
     invoke-virtual {v0, v1, v2}, Lcom/nearme/game/sdk/GameCenterSDK;->onExit(Landroid/app/Activity;Lcom/nearme/game/sdk/callback/GameExitCallback;)V
 
-    .line 208
+    .line 207
     return-void
 .end method
 
 .method public pay(Lcom/u8/sdk/PayParams;)V
-    .registers 10
+    .registers 7
     .param p1, "data"    # Lcom/u8/sdk/PayParams;
 
     .prologue
     .line 170
-    const/16 v0, 0x64
+    invoke-virtual {p1}, Lcom/u8/sdk/PayParams;->getPrice()I
+
+    move-result v2
+
+    mul-int/lit8 v0, v2, 0x64
 
     .line 171
     .local v0, "amount":I
     new-instance v1, Lcom/nearme/game/sdk/common/model/biz/PayInfo;
 
-    new-instance v2, Ljava/lang/StringBuilder;
+    invoke-virtual {p1}, Lcom/u8/sdk/PayParams;->getOrderID()Ljava/lang/String;
 
-    invoke-static {}, Ljava/lang/System;->currentTimeMillis()J
+    move-result-object v2
 
-    move-result-wide v4
-
-    .line 172
-    new-instance v3, Ljava/util/Random;
-
-    invoke-direct {v3}, Ljava/util/Random;-><init>()V
-
-    const/16 v6, 0x3e8
-
-    invoke-virtual {v3, v6}, Ljava/util/Random;->nextInt(I)I
+    invoke-virtual {p1}, Lcom/u8/sdk/PayParams;->getPrice()I
 
     move-result v3
 
-    int-to-long v6, v3
-
-    add-long/2addr v4, v6
-
-    invoke-static {v4, v5}, Ljava/lang/String;->valueOf(J)Ljava/lang/String;
+    invoke-static {v3}, Ljava/lang/String;->valueOf(I)Ljava/lang/String;
 
     move-result-object v3
 
-    invoke-direct {v2, v3}, Ljava/lang/StringBuilder;-><init>(Ljava/lang/String;)V
-
-    invoke-virtual {p1}, Lcom/u8/sdk/PayParams;->getOrderID()Ljava/lang/String;
-
-    move-result-object v3
-
-    invoke-virtual {v2, v3}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
-
-    move-result-object v2
-
-    invoke-virtual {v2}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
-
-    move-result-object v2
-
-    const-string v3, "\u81ea\u5b9a\u4e49\u5b57\u6bb5"
-
-    .line 171
     invoke-direct {v1, v2, v3, v0}, Lcom/nearme/game/sdk/common/model/biz/PayInfo;-><init>(Ljava/lang/String;Ljava/lang/String;I)V
 
-    .line 173
+    .line 172
     .local v1, "payInfo":Lcom/nearme/game/sdk/common/model/biz/PayInfo;
-    invoke-virtual {p1}, Lcom/u8/sdk/PayParams;->getProductDesc()Ljava/lang/String;
+    invoke-virtual {p1}, Lcom/u8/sdk/PayParams;->getPrice()I
+
+    move-result v2
+
+    invoke-static {v2}, Ljava/lang/String;->valueOf(I)Ljava/lang/String;
 
     move-result-object v2
 
     invoke-virtual {v1, v2}, Lcom/nearme/game/sdk/common/model/biz/PayInfo;->setProductDesc(Ljava/lang/String;)V
 
-    .line 174
-    invoke-virtual {p1}, Lcom/u8/sdk/PayParams;->getProductName()Ljava/lang/String;
-
-    move-result-object v2
+    .line 173
+    const-string v2, "\u5143\u5b9d"
 
     invoke-virtual {v1, v2}, Lcom/nearme/game/sdk/common/model/biz/PayInfo;->setProductName(Ljava/lang/String;)V
 
-    .line 175
+    .line 174
     iget-object v2, p0, Lcom/u8/sdk/OPPOSDK;->payUrl:Ljava/lang/String;
 
     invoke-virtual {v1, v2}, Lcom/nearme/game/sdk/common/model/biz/PayInfo;->setCallbackUrl(Ljava/lang/String;)V
 
-    .line 177
+    .line 176
     invoke-static {}, Lcom/nearme/game/sdk/GameCenterSDK;->getInstance()Lcom/nearme/game/sdk/GameCenterSDK;
 
     move-result-object v2
@@ -490,6 +466,6 @@
 
     invoke-virtual {v2, v3, v1, v4}, Lcom/nearme/game/sdk/GameCenterSDK;->doPay(Landroid/content/Context;Lcom/nearme/game/sdk/common/model/biz/PayInfo;Lcom/nearme/game/sdk/callback/ApiCallback;)V
 
-    .line 194
+    .line 193
     return-void
 .end method

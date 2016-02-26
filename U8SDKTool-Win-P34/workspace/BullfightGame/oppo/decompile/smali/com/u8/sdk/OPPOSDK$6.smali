@@ -29,7 +29,7 @@
     .line 1
     iput-object p1, p0, Lcom/u8/sdk/OPPOSDK$6;->this$0:Lcom/u8/sdk/OPPOSDK;
 
-    .line 199
+    .line 198
     invoke-direct {p0}, Ljava/lang/Object;-><init>()V
 
     return-void
@@ -41,7 +41,7 @@
     .registers 2
 
     .prologue
-    .line 205
+    .line 204
     invoke-static {}, Lcom/u8/sdk/U8SDK;->getInstance()Lcom/u8/sdk/U8SDK;
 
     move-result-object v0
@@ -52,6 +52,6 @@
 
     invoke-static {v0}, Lcom/nearme/game/sdk/common/util/AppUtil;->exitGameProcess(Landroid/app/Activity;)V
 
-    .line 206
+    .line 205
     return-void
 .end method

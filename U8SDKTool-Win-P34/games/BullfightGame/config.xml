@@ -127,6 +127,27 @@
 		</channel>
 
 		<channel>
+			<param name="id" value="188" />
+			<param name="name" value="mz" />
+			<param name="sdk" value="mz" />
+			<param name="desc" value="魅族" />
+			<param name="suffix" value="com.xw.BullfightGame.mz" />
+			<param name="splash" value="0" />
+			<param name="splash_copy_to_unity" value="0" />
+
+			<sdk-params>
+				<param desc="MZ_APPID" name="MZ_APPID" value="3050050" />
+				<param desc="MZ_APPKEY" name="MZ_APPKEY" value="29d9275d0eae4592970f9dc90155b2be" />
+				<param desc="MZ_PAYURL" name="MZ_PAYURL" value="http://121.40.231.233:8019/WS/QueryOrder.asmx/MeiZuPaySign" />
+			</sdk-params>
+
+			<sdk-version>
+				<versionCode>1</versionCode>   
+				<versionName>1.3.3</versionName>
+			</sdk-version>
+		</channel>
+
+		<channel>
 			<param name="id" value="176" />
 			<param name="name" value="atet" />
 			<param name="sdk" value="atet" />
